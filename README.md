@@ -27,8 +27,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40" alt="instagram logo"  />
   <img width="12" />
-  <img src="https://br.pinterest.com/pin/7740630604086968/" height="50" alt="carro" /> 
-  <img width="12" />
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge" height="40" alt="android logo"  />
 </div>
 
